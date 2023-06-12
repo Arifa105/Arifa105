@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Arifa, a self-taught data analyst from Pakistan 🇵🇰:. This is my arena to showcase my projects.
+I'm Arifa, WordpressPress developer and data analyst from Pakistan 🇵🇰:. This is my arena to showcase my projects.
 
 ### :rocket: Core Competencies
 
-* Tools: SQL, Power BI, Tableau
+* Language: PHP, SQL, HTML,CSS, JavaScript, Python
+* Framework: WordPress, Django, Codeignetor, Moodle
+* Libraries: Bootstap, Numpy, matplot, pandas, NLTK, Scitlearn
+* Tools: Workbench SQL, Power BI, Tableau
 * Skills: Data Cleaning, Data Analysis, Data Visualization.
 
  ### 🌱 Currently  
@@ -29,6 +32,6 @@ I'm Arifa, a self-taught data analyst from Pakistan 🇵🇰:. This is my arena 
  
 ### :coffee: Connect with Me!
 
-Feel free to contact me for more information about my work or to discuss potential opportunities. I am always looking for new challenges and opportunities to apply my skills and experience in data analysis.
+Feel free to contact me for more information about my work or to discuss potential opportunities. I am always looking for new challenges and opportunities to apply my skills and experience in WordPress Developer and data analysis.
 
 * [LinkedIn][([(https://www.linkedin.com/in/arifa-awan-b5082a65/)]
