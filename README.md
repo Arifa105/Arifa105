@@ -30,8 +30,9 @@ I'm Arifa,Full Stack Developer and Researcher from Pakistan 🇵🇰:. This is m
    
 
  
-### :coffee: Connect with Me!
+### :coffee: Links!
 
 Feel free to contact me for more information about my work or to discuss potential opportunities. I am always looking for new challenges and opportunities to apply my skills and experience in Full Stack and Researcher.
 
  Linkedin * [Arifa Awan](https://www.linkedin.com/in/arifa-awan-b5082a65)
+ Publication: [Master's Publication](https://indjst.org/articles/password-security-enhancement-using-dynamic-keystrokes-a-review)
