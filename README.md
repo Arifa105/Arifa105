@@ -34,4 +34,4 @@ I'm Arifa,Full Stack Developer and Researcher from Pakistan 🇵🇰:. This is m
 
 Feel free to contact me for more information about my work or to discuss potential opportunities. I am always looking for new challenges and opportunities to apply my skills and experience in Full Stack and Researcher.
 
-* [LinkedIn](https://www.linkedin.com/in/arifa-awan-b5082a65)
+ Linkedin * [Arifa Awan](https://www.linkedin.com/in/arifa-awan-b5082a65)
