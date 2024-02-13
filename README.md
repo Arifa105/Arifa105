@@ -14,24 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Arifa, WordpressPress developer and data analyst from Pakistan 🇵🇰:. This is my arena to showcase my projects.
+I'm Arifa,Full Stack and Researcher from Pakistan 🇵🇰:. This is my arena to showcase my projects.
 
 ### :rocket: Core Competencies
 
-* Language: PHP, SQL, HTML,CSS, JavaScript, Python
-* Framework: WordPress, Django, Codeignetor, Moodle
-* Libraries: Bootstap, Numpy, matplot, pandas, NLTK, Scitlearn
-* Tools: Workbench SQL, Power BI, Tableau
-* Skills: Data Cleaning, Data Analysis, Data Visualization.
+* Front End Language: HTML5, CSS3, bootstrap, React,Python, PHP, Java , XML, JSON
+* Backend Languages: Node JS, Node Express, Node:EJS, Restfull API.
+* Framework: CodeIgniter, Joomla, WordPress, Bootsrtap, Moodle
+* NLP Libraries: Spacy, Gensim, NLTK
+* Data Science Libraries: Numpy, tensorflow, Pandas, matplot, keras.
 
  ### 🌱 Currently  
  
- * Learning Python Libraries - Pandas, Matplotlib, SciKit-Learn.
- * Intership : Data Science & Business Analytics 
+ * Working as Lead IT Trainer to provide Digital literacy education to unpriviliged Students.
+   
 
  
 ### :coffee: Connect with Me!
 
-Feel free to contact me for more information about my work or to discuss potential opportunities. I am always looking for new challenges and opportunities to apply my skills and experience in WordPress Developer and data analysis.
+Feel free to contact me for more information about my work or to discuss potential opportunities. I am always looking for new challenges and opportunities to apply my skills and experience in Full Stack and Researcher.
 
 * [LinkedIn][([(https://www.linkedin.com/in/arifa-awan-b5082a65/)]
