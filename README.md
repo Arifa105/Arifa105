@@ -26,7 +26,7 @@ I'm Arifa,Full Stack Developer and Researcher from Pakistan 🇵🇰:. This is m
 
  ### 🌱 Currently  
  
- * Working as Lead IT Trainer to provide Digital literacy education to unpriviliged Students.
+ * Working as a Lead IT Trainer to provide Digital literacy education to unpriviliged Students.
    
 
  
