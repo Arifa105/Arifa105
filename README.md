@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Arifa,Full Stack and Researcher from Pakistan 🇵🇰:. This is my arena to showcase my projects.
+I'm Arifa,Full Stack Developer and Researcher from Pakistan 🇵🇰:. This is my arena to showcase my projects.
 
 ### :rocket: Core Competencies
 
@@ -34,4 +34,4 @@ I'm Arifa,Full Stack and Researcher from Pakistan 🇵🇰:. This is my arena to
 
 Feel free to contact me for more information about my work or to discuss potential opportunities. I am always looking for new challenges and opportunities to apply my skills and experience in Full Stack and Researcher.
 
-* [LinkedIn][([(https://www.linkedin.com/in/arifa-awan-b5082a65/)]
+* [LinkedIn](https://www.linkedin.com/in/arifa-awan-b5082a65)
