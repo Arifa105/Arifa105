@@ -20,6 +20,7 @@ I'm Arifa,Full Stack Developer and Researcher from Pakistan 🇵🇰:. This is m
 
 * Front End Language: HTML5, CSS3, bootstrap, React,Python, PHP, Java , XML, JSON
 * Backend Languages: Node JS, Node Express, Node:EJS, Restfull API.
+* Database System: SQL, mongoDb.
 * Framework: CodeIgniter, Joomla, WordPress, Bootsrtap, Moodle
 * NLP Libraries: Spacy, Gensim, NLTK
 * Data Science Libraries: Numpy, tensorflow, Pandas, matplot, keras.
