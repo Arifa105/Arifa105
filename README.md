@@ -14,20 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Arifa,Full Stack Developer and Researcher from Pakistan 🇵🇰:. This is my arena to showcase my projects.
+I'm Arifa, a DevOps Engineer and Researcher from Pakistan 🇵🇰. This is my arena to showcase my projects.
 
 ### :rocket: Core Competencies
 
-* Front End Language: HTML5, CSS3, bootstrap, React,Python, PHP, Java , XML, JSON
-* Backend Languages: Node JS, Node Express, Node:EJS, Restfull API.
+* DevOps Tools & Technologies: Azure DevOps, Docker, Kubernetes, Terraform, Git, CI/CD Pipelines
+* Cloud Platforms: : Azure
 * Database System: SQL, mongoDb.
-* Framework: CodeIgniter, Joomla, WordPress, Bootsrtap, Moodle
-* NLP Libraries: Spacy, Gensim, NLTK
-* Data Science Libraries: Numpy, tensorflow, Pandas, matplot, keras.
+* Scripting & Automation: :Python, Bash
+* Infrastructure as Code (IaC): : Terraform
+* Monitoring & Logging:: Prometheus, Grafana, Azure Monitor
+* Containerization & Orchestration: Docker, Kubernetes, Helm
 
- ### 🌱 Currently  
- 
- * Working as a Lead IT Trainer to provide Digital literacy education to unpriviliged Students.
+
    
 
  
