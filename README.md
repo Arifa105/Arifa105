@@ -22,8 +22,8 @@ I'm Arifa, a DevOps Engineer and Researcher from Pakistan 🇵🇰. This is my a
 * Cloud Platforms: : Azure and its services(VM, Vnet, LoadBalancer, application gateway, traffic manager, Storage account)
 * Database System: SQL, mongoDb.
 * Scripting & Automation: :Python, Bash
-* Infrastructure as Code (IaC): : Terraform
-* Monitoring & Logging:: Prometheus, Grafana, Azure Monitor
+* Infrastructure as Code (IaC): Terraform
+* Monitoring & Logging:Prometheus, Grafana, Azure Monitor
 * Containerization & Orchestration: Docker, Kubernetes, Helm
 
 
